@@ -1,5 +1,5 @@
 # Cinema
----
+
 ### Description
 
 A Spring Boot project which represents an internet showcase of a cinema with a single hall. There is a week schedule of film sessions in the system.
@@ -40,7 +40,6 @@ Performing Data access layer:
 - Perform one-to-many and many-to-many table connections.
 - Implement logging using Log4j.
 
----
 ### Database
 
 MySQL

@@ -15,7 +15,7 @@ Administrator can add sessions to the schedule, delete them and to check the att
 ### Team
 
 - Team Lead Full-stack developer: [Sokolov Volodymyr](https://github.com/SakalOFF)
-- Backend developer: [Tkachenko Yaroslav]()
+- Backend developer: [Tkachenko Yaroslav](https://github.com/yraikth)
 - Frontend developer and QA engineer: [Belov Nikita]()
 
 ---

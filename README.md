@@ -51,3 +51,6 @@ MySQL Worckbench, IntelliJ IDEA Ultimate, Git, GitHub, Maven.
 ### Technologies
 
 Java SE 8, Spring Boot, Thymeleaf, Hibernate, HTTP, HTML, CSS, Javascript, SQL, Log4j, Lombock, Mockito, JUnit.
+
+### Database schema
+![DBschema](./assets/DBschema.PNG)

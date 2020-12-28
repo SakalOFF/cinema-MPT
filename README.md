@@ -52,5 +52,30 @@ MySQL Worckbench, IntelliJ IDEA Ultimate, Git, GitHub, Maven.
 
 Java SE 8, Spring Boot, Thymeleaf, Hibernate, HTTP, HTML, CSS, Javascript, SQL, Log4j, Lombock, Mockito, JUnit.
 
+### Why these?
+
+#### Spring Boot:
+- It is very easy to develop Spring Based applications with Java or Groovy.
+- It reduces lots of development time and increases productivity.
+- It avoids writing lots of boilerplate Code, Annotations and XML Configuration.
+- It is very easy to integrate Spring Boot Application with its Spring Ecosystem like Spring JDBC, Spring ORM, Spring Data, Spring Security etc.
+- It follows “Opinionated Defaults Configuration” Approach to reduce Developer effort
+- It provides Embedded HTTP servers like Tomcat, Jetty etc. to develop and test our web applications very easily.
+- It provides CLI (Command Line Interface) tool to develop and test Spring Boot(Java or Groovy) Applications from command prompt very easily and quickly.
+- It provides lots of plugins to develop and test Spring Boot Applications very easily using Build Tools like Maven and Gradle
+- It provides lots of plugins to work with embedded and in-memory Databases very easily.
+
+#### Hibernate:
+- It is open source under the LGPL license and lightweight.
+- The performance of hibernate framework is fast because cache is internally used in hibernate framework. There are two types of cache in hibernate framework first level cache and second level cache. First level cache is enabled by default.
+- HQL (Hibernate Query Language) is the object-oriented version of SQL. It generates the database independent queries. So you don't need to write database specific queries. Before Hibernate, if database is changed for the project, we need to change the SQL query as well that leads to the maintenance problem.
+- It provides the facility to create the tables of the database automatically. So there is no need to create tables in the database manually.
+- Fetching data from multiple tables is easy in hibernate framework.
+- It supports Query cache and provide statistics about query and database status.
+
+---
+### Use Case Diagram
+![usecase](./assets/usecase.PNG)
+
 ### Database schema
 ![DBschema](./assets/DBschema.PNG)

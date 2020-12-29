@@ -40,6 +40,8 @@ Performing Data access layer:
 - Perform one-to-many and many-to-many table connections.
 - Implement logging using Log4j.
 
+---
+
 ### Database
 
 MySQL
@@ -90,6 +92,7 @@ Java SE 8, Spring Boot, Thymeleaf, Hibernate, HTTP, HTML, CSS, Javascript, SQL, 
 - Complete Workflow Control
 
 ---
+
 ### Use Case Diagram
 ![usecase](./assets/usecase.PNG)
 

@@ -73,6 +73,22 @@ Java SE 8, Spring Boot, Thymeleaf, Hibernate, HTTP, HTML, CSS, Javascript, SQL, 
 - Fetching data from multiple tables is easy in hibernate framework.
 - It supports Query cache and provide statistics about query and database status.
 
+#### Mockito:
+- No Handwriting − No need to write mock objects on your own.
+- Refactoring Safe − Renaming interface method names or reordering parameters will not break the test code as Mocks are created at runtime.
+- Return value support − Supports return values.
+- Exception support − Supports exceptions.
+- Order check support − Supports check on order of method calls.
+- Annotation support − Supports creating mocks using annotation.
+
+#### MySQL:
+- Data Security
+- On-Demand Scalability
+- High Performance
+- Round-the-Clock Uptime
+- Comprehensive Transactional Support
+- Complete Workflow Control
+
 ---
 ### Use Case Diagram
 ![usecase](./assets/usecase.PNG)

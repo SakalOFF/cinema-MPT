@@ -96,5 +96,8 @@ Java SE 8, Spring Boot, Thymeleaf, Hibernate, HTTP, HTML, CSS, Javascript, SQL, 
 ### Use Case Diagram
 ![usecase](./assets/usecase.PNG)
 
+### TimeLine
+![timeline](./assets/TimeLine.PNG)
+
 ### Database schema
 ![DBschema](./assets/DBschema.PNG)
